@@ -1,0 +1,23 @@
+
+.body {
+  background-color: #ffffff;
+  color: #212121;
+  font-family: roboto, sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.contacts {
+	background-color: rgba(24, 76, 77, 1.0);
+}
+
+.aboutMe {
+	background-color: rgba(66, 9, 150, 1.0);
+}
+
+.lastWork {
+	background-color: rgba(4, 200, 201, 1.0);
+}
+
+.mySkills {
+  background-color: rgba(3, 234, 98, 1.0);
+}
